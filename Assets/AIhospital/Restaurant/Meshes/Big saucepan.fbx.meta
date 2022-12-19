@@ -1,0 +1,873 @@
+fileFormatVersion: 2
+guid: 2d2595202510fd64c9fc2c1267ee069a
+timeCreated: 1492511792
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Big ceiling
+    100002: Big floor
+    100004: Big pepper shaker
+    100006: Big saucepan
+    100008: //RootNode
+    100010: Big saucepan2
+    100012: Big window
+    100014: Blue vinyl
+    100016: Camera
+    100018: Chair1
+    100020: Chair10
+    100022: Chair11
+    100024: Chair12
+    100026: Chair13
+    100028: Chair14
+    100030: Chair15
+    100032: Chair16
+    100034: Chair17
+    100036: Chair18
+    100038: Chair19
+    100040: Chair2
+    100042: Chair20
+    100044: Chair21
+    100046: Chair22
+    100048: Chair23
+    100050: Chair24
+    100052: Chair25
+    100054: Chair26
+    100056: Chair27
+    100058: Chair28
+    100060: Chair29
+    100062: Chair3
+    100064: Chair30
+    100066: Chair31
+    100068: Chair32
+    100070: Chair33
+    100072: Chair34
+    100074: Chair35
+    100076: Chair36
+    100078: Chair37
+    100080: Chair38
+    100082: Chair39
+    100084: Chair4
+    100086: Chair40
+    100088: Chair41
+    100090: Chair42
+    100092: Chair43
+    100094: Chair44
+    100096: Chair45
+    100098: Chair46
+    100100: Chair47
+    100102: Chair48
+    100104: Chair5
+    100106: Chair6
+    100108: Chair7
+    100110: Chair8
+    100112: Chair9
+    100114: Desk
+    100116: Desk List
+    100118: Door list
+    100120: Facade neon lights
+    100122: Facade.001
+    100124: Fan
+    100126: Fan lamp
+    100128: Fridge
+    100130: Fridge.001
+    100132: Fryer
+    100134: Fryer container
+    100136: Green vinyl
+    100138: Hooks
+    100140: Jukebox
+    100142: Kitchen door
+    100144: Kitchen floor
+    100146: Kitchen roof
+    100148: Kitchen table
+    100150: Kitchen Wall1
+    100152: Kitchen Wall2
+    100154: Kitchen Wall3
+    100156: Kitchen wall4
+    100158: Knife
+    100160: Knife holder
+    100162: Knife sharpener
+    100164: Knife2
+    100166: Knife3
+    100168: Knife4
+    100170: Lamp1
+    100172: Lamp10
+    100174: Lamp11
+    100176: Lamp12
+    100178: Lamp2
+    100180: Lamp3
+    100182: Lamp4
+    100184: Lamp5
+    100186: Lamp6
+    100188: Lamp7
+    100190: Lamp8
+    100192: Lamp9
+    100194: Left door
+    100196: Left fridge door
+    100198: List
+    100200: Long chair1
+    100202: Long chair10
+    100204: Long chair11
+    100206: Long chair12
+    100208: Long chair2
+    100210: Long chair3
+    100212: Long chair4
+    100214: Long chair5
+    100216: Long chair6
+    100218: Long chair7
+    100220: Long chair8
+    100222: Long chair9
+    100224: Long lamp1
+    100226: Long lamp2
+    100228: Long lamp3
+    100230: Long lamp4
+    100232: Long lamp5
+    100234: Long lamp6
+    100236: Long table
+    100238: Long table.001
+    100240: Medkit
+    100242: Orange vinyl
+    100244: Ping Clock
+    100246: Pink vinyl
+    100248: Right door
+    100250: Right fridge door
+    100252: Salad Bar
+    100254: Saucepan
+    100256: Saucepan2
+    100258: Shelf1
+    100260: Shelf2
+    100262: Shelf3
+    100264: Shelf4
+    100266: Small kitchen table
+    100268: Small pepper shaker
+    100270: Stacked Paper Container
+    100272: Stacked Plates
+    100274: Stove
+    100276: Stove container
+    100278: Table1 metal
+    100280: Table1 wood
+    100282: Table1 wood.001
+    100284: Table1 wood.002
+    100286: Table1 wood.003
+    100288: Table1 wood.004
+    100290: Table1 wood.005
+    100292: Table1 wood.006
+    100294: Table1 wood.007
+    100296: Table1 wood.008
+    100298: Table1 wood.009
+    100300: Table1 wood.010
+    100302: Table1 wood.011
+    100304: Table10
+    100306: Table11
+    100308: Table12
+    100310: Table2
+    100312: Table3
+    100314: Table4
+    100316: Table5
+    100318: Table6
+    100320: Table7
+    100322: Table8
+    100324: Table9
+    100326: Text
+    100328: Trash can
+    100330: Trash can cap
+    100332: Wall1
+    100334: Wall2
+    100336: Wall3
+    100338: Wall4
+    100340: White bottle
+    400000: Big ceiling
+    400002: Big floor
+    400004: Big pepper shaker
+    400006: Big saucepan
+    400008: //RootNode
+    400010: Big saucepan2
+    400012: Big window
+    400014: Blue vinyl
+    400016: Camera
+    400018: Chair1
+    400020: Chair10
+    400022: Chair11
+    400024: Chair12
+    400026: Chair13
+    400028: Chair14
+    400030: Chair15
+    400032: Chair16
+    400034: Chair17
+    400036: Chair18
+    400038: Chair19
+    400040: Chair2
+    400042: Chair20
+    400044: Chair21
+    400046: Chair22
+    400048: Chair23
+    400050: Chair24
+    400052: Chair25
+    400054: Chair26
+    400056: Chair27
+    400058: Chair28
+    400060: Chair29
+    400062: Chair3
+    400064: Chair30
+    400066: Chair31
+    400068: Chair32
+    400070: Chair33
+    400072: Chair34
+    400074: Chair35
+    400076: Chair36
+    400078: Chair37
+    400080: Chair38
+    400082: Chair39
+    400084: Chair4
+    400086: Chair40
+    400088: Chair41
+    400090: Chair42
+    400092: Chair43
+    400094: Chair44
+    400096: Chair45
+    400098: Chair46
+    400100: Chair47
+    400102: Chair48
+    400104: Chair5
+    400106: Chair6
+    400108: Chair7
+    400110: Chair8
+    400112: Chair9
+    400114: Desk
+    400116: Desk List
+    400118: Door list
+    400120: Facade neon lights
+    400122: Facade.001
+    400124: Fan
+    400126: Fan lamp
+    400128: Fridge
+    400130: Fridge.001
+    400132: Fryer
+    400134: Fryer container
+    400136: Green vinyl
+    400138: Hooks
+    400140: Jukebox
+    400142: Kitchen door
+    400144: Kitchen floor
+    400146: Kitchen roof
+    400148: Kitchen table
+    400150: Kitchen Wall1
+    400152: Kitchen Wall2
+    400154: Kitchen Wall3
+    400156: Kitchen wall4
+    400158: Knife
+    400160: Knife holder
+    400162: Knife sharpener
+    400164: Knife2
+    400166: Knife3
+    400168: Knife4
+    400170: Lamp1
+    400172: Lamp10
+    400174: Lamp11
+    400176: Lamp12
+    400178: Lamp2
+    400180: Lamp3
+    400182: Lamp4
+    400184: Lamp5
+    400186: Lamp6
+    400188: Lamp7
+    400190: Lamp8
+    400192: Lamp9
+    400194: Left door
+    400196: Left fridge door
+    400198: List
+    400200: Long chair1
+    400202: Long chair10
+    400204: Long chair11
+    400206: Long chair12
+    400208: Long chair2
+    400210: Long chair3
+    400212: Long chair4
+    400214: Long chair5
+    400216: Long chair6
+    400218: Long chair7
+    400220: Long chair8
+    400222: Long chair9
+    400224: Long lamp1
+    400226: Long lamp2
+    400228: Long lamp3
+    400230: Long lamp4
+    400232: Long lamp5
+    400234: Long lamp6
+    400236: Long table
+    400238: Long table.001
+    400240: Medkit
+    400242: Orange vinyl
+    400244: Ping Clock
+    400246: Pink vinyl
+    400248: Right door
+    400250: Right fridge door
+    400252: Salad Bar
+    400254: Saucepan
+    400256: Saucepan2
+    400258: Shelf1
+    400260: Shelf2
+    400262: Shelf3
+    400264: Shelf4
+    400266: Small kitchen table
+    400268: Small pepper shaker
+    400270: Stacked Paper Container
+    400272: Stacked Plates
+    400274: Stove
+    400276: Stove container
+    400278: Table1 metal
+    400280: Table1 wood
+    400282: Table1 wood.001
+    400284: Table1 wood.002
+    400286: Table1 wood.003
+    400288: Table1 wood.004
+    400290: Table1 wood.005
+    400292: Table1 wood.006
+    400294: Table1 wood.007
+    400296: Table1 wood.008
+    400298: Table1 wood.009
+    400300: Table1 wood.010
+    400302: Table1 wood.011
+    400304: Table10
+    400306: Table11
+    400308: Table12
+    400310: Table2
+    400312: Table3
+    400314: Table4
+    400316: Table5
+    400318: Table6
+    400320: Table7
+    400322: Table8
+    400324: Table9
+    400326: Text
+    400328: Trash can
+    400330: Trash can cap
+    400332: Wall1
+    400334: Wall2
+    400336: Wall3
+    400338: Wall4
+    400340: White bottle
+    2300000: Big ceiling
+    2300002: Big floor
+    2300004: Big pepper shaker
+    2300006: Big saucepan
+    2300008: Big saucepan2
+    2300010: Big window
+    2300012: Blue vinyl
+    2300014: Chair1
+    2300016: Chair10
+    2300018: Chair11
+    2300020: Chair12
+    2300022: Chair13
+    2300024: Chair14
+    2300026: Chair15
+    2300028: Chair16
+    2300030: Chair17
+    2300032: Chair18
+    2300034: Chair19
+    2300036: Chair2
+    2300038: Chair20
+    2300040: Chair21
+    2300042: Chair22
+    2300044: Chair23
+    2300046: Chair24
+    2300048: Chair25
+    2300050: Chair26
+    2300052: Chair27
+    2300054: Chair28
+    2300056: Chair29
+    2300058: Chair3
+    2300060: Chair30
+    2300062: Chair31
+    2300064: Chair32
+    2300066: Chair33
+    2300068: Chair34
+    2300070: Chair35
+    2300072: Chair36
+    2300074: Chair37
+    2300076: Chair38
+    2300078: Chair39
+    2300080: Chair4
+    2300082: Chair40
+    2300084: Chair41
+    2300086: Chair42
+    2300088: Chair43
+    2300090: Chair44
+    2300092: Chair45
+    2300094: Chair46
+    2300096: Chair47
+    2300098: Chair48
+    2300100: Chair5
+    2300102: Chair6
+    2300104: Chair7
+    2300106: Chair8
+    2300108: Chair9
+    2300110: Desk
+    2300112: Desk List
+    2300114: Door list
+    2300116: Facade neon lights
+    2300118: Facade.001
+    2300120: Fan
+    2300122: Fan lamp
+    2300124: Fridge
+    2300126: Fridge.001
+    2300128: Fryer
+    2300130: Fryer container
+    2300132: Green vinyl
+    2300134: Hooks
+    2300136: Jukebox
+    2300138: Kitchen door
+    2300140: Kitchen floor
+    2300142: Kitchen roof
+    2300144: Kitchen table
+    2300146: Kitchen Wall1
+    2300148: Kitchen Wall2
+    2300150: Kitchen Wall3
+    2300152: Kitchen wall4
+    2300154: Knife
+    2300156: Knife holder
+    2300158: Knife sharpener
+    2300160: Knife2
+    2300162: Knife3
+    2300164: Knife4
+    2300166: Lamp1
+    2300168: Lamp10
+    2300170: Lamp11
+    2300172: Lamp12
+    2300174: Lamp2
+    2300176: Lamp3
+    2300178: Lamp4
+    2300180: Lamp5
+    2300182: Lamp6
+    2300184: Lamp7
+    2300186: Lamp8
+    2300188: Lamp9
+    2300190: Left door
+    2300192: Left fridge door
+    2300194: List
+    2300196: Long chair1
+    2300198: Long chair10
+    2300200: Long chair11
+    2300202: Long chair12
+    2300204: Long chair2
+    2300206: Long chair3
+    2300208: Long chair4
+    2300210: Long chair5
+    2300212: Long chair6
+    2300214: Long chair7
+    2300216: Long chair8
+    2300218: Long chair9
+    2300220: Long lamp1
+    2300222: Long lamp2
+    2300224: Long lamp3
+    2300226: Long lamp4
+    2300228: Long lamp5
+    2300230: Long lamp6
+    2300232: Long table
+    2300234: Long table.001
+    2300236: Medkit
+    2300238: Orange vinyl
+    2300240: Ping Clock
+    2300242: Pink vinyl
+    2300244: Right door
+    2300246: Right fridge door
+    2300248: Salad Bar
+    2300250: Saucepan
+    2300252: Saucepan2
+    2300254: Shelf1
+    2300256: Shelf2
+    2300258: Shelf3
+    2300260: Shelf4
+    2300262: Small kitchen table
+    2300264: Small pepper shaker
+    2300266: Stacked Paper Container
+    2300268: Stacked Plates
+    2300270: Stove
+    2300272: Stove container
+    2300274: Table1 metal
+    2300276: Table1 wood
+    2300278: Table1 wood.001
+    2300280: Table1 wood.002
+    2300282: Table1 wood.003
+    2300284: Table1 wood.004
+    2300286: Table1 wood.005
+    2300288: Table1 wood.006
+    2300290: Table1 wood.007
+    2300292: Table1 wood.008
+    2300294: Table1 wood.009
+    2300296: Table1 wood.010
+    2300298: Table1 wood.011
+    2300300: Table10
+    2300302: Table11
+    2300304: Table12
+    2300306: Table2
+    2300308: Table3
+    2300310: Table4
+    2300312: Table5
+    2300314: Table6
+    2300316: Table7
+    2300318: Table8
+    2300320: Table9
+    2300322: Text
+    2300324: Trash can
+    2300326: Trash can cap
+    2300328: Wall1
+    2300330: Wall2
+    2300332: Wall3
+    2300334: Wall4
+    2300336: White bottle
+    2300338: //RootNode
+    3300000: Big ceiling
+    3300002: Big floor
+    3300004: Big pepper shaker
+    3300006: Big saucepan
+    3300008: Big saucepan2
+    3300010: Big window
+    3300012: Blue vinyl
+    3300014: Chair1
+    3300016: Chair10
+    3300018: Chair11
+    3300020: Chair12
+    3300022: Chair13
+    3300024: Chair14
+    3300026: Chair15
+    3300028: Chair16
+    3300030: Chair17
+    3300032: Chair18
+    3300034: Chair19
+    3300036: Chair2
+    3300038: Chair20
+    3300040: Chair21
+    3300042: Chair22
+    3300044: Chair23
+    3300046: Chair24
+    3300048: Chair25
+    3300050: Chair26
+    3300052: Chair27
+    3300054: Chair28
+    3300056: Chair29
+    3300058: Chair3
+    3300060: Chair30
+    3300062: Chair31
+    3300064: Chair32
+    3300066: Chair33
+    3300068: Chair34
+    3300070: Chair35
+    3300072: Chair36
+    3300074: Chair37
+    3300076: Chair38
+    3300078: Chair39
+    3300080: Chair4
+    3300082: Chair40
+    3300084: Chair41
+    3300086: Chair42
+    3300088: Chair43
+    3300090: Chair44
+    3300092: Chair45
+    3300094: Chair46
+    3300096: Chair47
+    3300098: Chair48
+    3300100: Chair5
+    3300102: Chair6
+    3300104: Chair7
+    3300106: Chair8
+    3300108: Chair9
+    3300110: Desk
+    3300112: Desk List
+    3300114: Door list
+    3300116: Facade neon lights
+    3300118: Facade.001
+    3300120: Fan
+    3300122: Fan lamp
+    3300124: Fridge
+    3300126: Fridge.001
+    3300128: Fryer
+    3300130: Fryer container
+    3300132: Green vinyl
+    3300134: Hooks
+    3300136: Jukebox
+    3300138: Kitchen door
+    3300140: Kitchen floor
+    3300142: Kitchen roof
+    3300144: Kitchen table
+    3300146: Kitchen Wall1
+    3300148: Kitchen Wall2
+    3300150: Kitchen Wall3
+    3300152: Kitchen wall4
+    3300154: Knife
+    3300156: Knife holder
+    3300158: Knife sharpener
+    3300160: Knife2
+    3300162: Knife3
+    3300164: Knife4
+    3300166: Lamp1
+    3300168: Lamp10
+    3300170: Lamp11
+    3300172: Lamp12
+    3300174: Lamp2
+    3300176: Lamp3
+    3300178: Lamp4
+    3300180: Lamp5
+    3300182: Lamp6
+    3300184: Lamp7
+    3300186: Lamp8
+    3300188: Lamp9
+    3300190: Left door
+    3300192: Left fridge door
+    3300194: List
+    3300196: Long chair1
+    3300198: Long chair10
+    3300200: Long chair11
+    3300202: Long chair12
+    3300204: Long chair2
+    3300206: Long chair3
+    3300208: Long chair4
+    3300210: Long chair5
+    3300212: Long chair6
+    3300214: Long chair7
+    3300216: Long chair8
+    3300218: Long chair9
+    3300220: Long lamp1
+    3300222: Long lamp2
+    3300224: Long lamp3
+    3300226: Long lamp4
+    3300228: Long lamp5
+    3300230: Long lamp6
+    3300232: Long table
+    3300234: Long table.001
+    3300236: Medkit
+    3300238: Orange vinyl
+    3300240: Ping Clock
+    3300242: Pink vinyl
+    3300244: Right door
+    3300246: Right fridge door
+    3300248: Salad Bar
+    3300250: Saucepan
+    3300252: Saucepan2
+    3300254: Shelf1
+    3300256: Shelf2
+    3300258: Shelf3
+    3300260: Shelf4
+    3300262: Small kitchen table
+    3300264: Small pepper shaker
+    3300266: Stacked Paper Container
+    3300268: Stacked Plates
+    3300270: Stove
+    3300272: Stove container
+    3300274: Table1 metal
+    3300276: Table1 wood
+    3300278: Table1 wood.001
+    3300280: Table1 wood.002
+    3300282: Table1 wood.003
+    3300284: Table1 wood.004
+    3300286: Table1 wood.005
+    3300288: Table1 wood.006
+    3300290: Table1 wood.007
+    3300292: Table1 wood.008
+    3300294: Table1 wood.009
+    3300296: Table1 wood.010
+    3300298: Table1 wood.011
+    3300300: Table10
+    3300302: Table11
+    3300304: Table12
+    3300306: Table2
+    3300308: Table3
+    3300310: Table4
+    3300312: Table5
+    3300314: Table6
+    3300316: Table7
+    3300318: Table8
+    3300320: Table9
+    3300322: Text
+    3300324: Trash can
+    3300326: Trash can cap
+    3300328: Wall1
+    3300330: Wall2
+    3300332: Wall3
+    3300334: Wall4
+    3300336: White bottle
+    3300338: //RootNode
+    4300000: Door list
+    4300002: Facade neon lights
+    4300004: Text
+    4300006: Facade.001
+    4300008: Knife4
+    4300010: Knife3
+    4300012: Knife2
+    4300014: Knife holder
+    4300016: Knife
+    4300018: Shelf3
+    4300020: Shelf2
+    4300022: Shelf1
+    4300024: Fridge.001
+    4300026: Long table.001
+    4300028: Table1 wood.011
+    4300030: Table1 wood.010
+    4300032: Table1 wood.009
+    4300034: Table1 wood.008
+    4300036: Table1 wood.007
+    4300038: Table1 wood.006
+    4300040: Table1 wood.005
+    4300042: Table1 wood.004
+    4300044: Table1 wood.003
+    4300046: Table1 wood.002
+    4300048: Table1 wood.001
+    4300050: Table1 wood
+    4300052: Small kitchen table
+    4300054: Kitchen floor
+    4300056: Desk
+    4300058: Desk List
+    4300060: Kitchen wall4
+    4300062: Kitchen Wall3
+    4300064: Kitchen Wall2
+    4300066: Kitchen roof
+    4300068: List
+    4300070: Wall2
+    4300072: Wall1
+    4300074: Big ceiling
+    4300076: Wall4
+    4300078: Wall3
+    4300080: Big floor
+    4300082: Blue vinyl
+    4300084: Pink vinyl
+    4300086: Green vinyl
+    4300088: Orange vinyl
+    4300090: Left door
+    4300092: Right door
+    4300094: Fryer container
+    4300096: Stove container
+    4300098: White bottle
+    4300100: Small pepper shaker
+    4300102: Big pepper shaker
+    4300104: Saucepan2
+    4300106: Big saucepan2
+    4300108: Kitchen door
+    4300110: Long lamp1
+    4300112: Shelf4
+    4300114: Fan lamp
+    4300116: Kitchen table
+    4300118: Medkit
+    4300120: Lamp6
+    4300122: Lamp3
+    4300124: Chair11
+    4300126: Table3
+    4300128: Table6
+    4300130: Table5
+    4300132: Table4
+    4300134: Chair16
+    4300136: Lamp4
+    4300138: Lamp5
+    4300140: Lamp9
+    4300142: Lamp8
+    4300144: Chair24
+    4300146: Table8
+    4300148: Table9
+    4300150: Table10
+    4300152: Table7
+    4300154: Chair34
+    4300156: Lamp7
+    4300158: Lamp10
+    4300160: Kitchen Wall1
+    4300162: Ping Clock
+    4300164: Knife sharpener
+    4300166: Long lamp4
+    4300168: Long lamp3
+    4300170: Long lamp2
+    4300172: Lamp1
+    4300174: Lamp2
+    4300176: Lamp12
+    4300178: Long lamp6
+    4300180: Long lamp5
+    4300182: Big saucepan
+    4300184: Hooks
+    4300186: Fan
+    4300188: Saucepan
+    4300190: Trash can cap
+    4300192: Trash can
+    4300194: Stove
+    4300196: Jukebox
+    4300198: Lamp11
+    4300200: Chair5
+    4300202: Chair1
+    4300204: Big window
+    4300206: Table2
+    4300208: Table1 metal
+    4300210: Table12
+    4300212: Long chair1
+    4300214: Table11
+    4300216: Long table
+    4300218: Fridge
+    4300220: Left fridge door
+    4300222: Right fridge door
+    4300224: Salad Bar
+    4300226: Fryer
+    4300228: Stacked Plates
+    4300230: Stacked Paper Container
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
